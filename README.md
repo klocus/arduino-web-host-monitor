@@ -14,5 +14,5 @@ Hosts can be edited via web interface.
 - SdFat (I replaced it with the standard SD library because it took less memory)
 - aWOT (web interface)
 
-**A video where you can see it in the action:**
+**A video where you can see it in action:**
 https://youtu.be/bNa4fz_fVJo
