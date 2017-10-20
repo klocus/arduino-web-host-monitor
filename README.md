@@ -11,7 +11,7 @@ Hosts can be edited via web interface.
 
 **Additional libraries:**
 - NettigoKeypad (operating the display keys)
-- SdFat (I replaced it with the standard SD library because it took less memory)
+- SdFat (I replaced the standard SD by this library because it took less memory)
 - aWOT (web interface)
 
 **A video where you can see it in action:**
